@@ -1,0 +1,2774 @@
+[
+  {
+    "store_name":"오천억복권방",
+    "region":"광주 서구",
+    "win_count":4,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EC%84%9C%EA%B5%AC%20%EC%98%A4%EC%B2%9C%EC%96%B5%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"로또킹",
+    "region":"서울 영등포구",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EB%A1%9C%EB%98%90%ED%82%B9"
+  },
+  {
+    "store_name":"오케이상사",
+    "region":"서울 서초구",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%98%A4%EC%BC%80%EC%9D%B4%EC%83%81%EC%82%AC"
+  },
+  {
+    "store_name":"부일카서비스",
+    "region":"부산 동구",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EA%B5%AC%20%EB%B6%80%EC%9D%BC%EC%B9%B4%EC%84%9C%EB%B9%84%EC%8A%A4"
+  },
+  {
+    "store_name":"메트로센터점",
+    "region":"대구 중구",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EC%A4%91%EA%B5%AC%20%EB%A9%94%ED%8A%B8%EB%A1%9C%EC%84%BC%ED%84%B0%EC%A0%90"
+  },
+  {
+    "store_name":"복권백화점",
+    "region":"경기 파주시",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%B0%B1%ED%99%94%EC%A0%90"
+  },
+  {
+    "store_name":"로또명당인주점",
+    "region":"충남 아산시",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%95%84%EC%82%B0%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9%EC%9D%B8%EC%A3%BC%EC%A0%90"
+  },
+  {
+    "store_name":"행복한복권방",
+    "region":"전북 전주시 덕진구",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EB%8D%95%EC%A7%84%EA%B5%AC%20%ED%96%89%EB%B3%B5%ED%95%9C%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"명당",
+    "region":"경남 진주시",
+    "win_count":3,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%A7%84%EC%A3%BC%EC%8B%9C%20%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"월드24시",
+    "region":"서울 은평구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%9B%94%EB%93%9C24%EC%8B%9C"
+  },
+  {
+    "store_name":"묵동식품",
+    "region":"서울 중랑구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EB%AC%B5%EB%8F%99%EC%8B%9D%ED%92%88"
+  },
+  {
+    "store_name":"스파",
+    "region":"서울 노원구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EC%8A%A4%ED%8C%8C"
+  },
+  {
+    "store_name":"행운복권방",
+    "region":"서울 금천구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B8%88%EC%B2%9C%EA%B5%AC%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"행운의집",
+    "region":"서울 강동구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%ED%96%89%EC%9A%B4%EC%9D%98%EC%A7%91"
+  },
+  {
+    "store_name":"화신상사",
+    "region":"부산 동래구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EB%9E%98%EA%B5%AC%20%ED%99%94%EC%8B%A0%EC%83%81%EC%82%AC"
+  },
+  {
+    "store_name":"복권명당(서부점)",
+    "region":"대구 달서구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%8B%AC%EC%84%9C%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9%28%EC%84%9C%EB%B6%80%EC%A0%90%29"
+  },
+  {
+    "store_name":"청구마트",
+    "region":"대구 북구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%B6%81%EA%B5%AC%20%EC%B2%AD%EA%B5%AC%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"일등복권편의점",
+    "region":"대구 달서구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%8B%AC%EC%84%9C%EA%B5%AC%20%EC%9D%BC%EB%93%B1%EB%B3%B5%EA%B6%8C%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"대전우표사",
+    "region":"대전 동구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EB%8F%99%EA%B5%AC%20%EB%8C%80%EC%A0%84%EC%9A%B0%ED%91%9C%EC%82%AC"
+  },
+  {
+    "store_name":"제우스테크",
+    "region":"대전 서구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%84%9C%EA%B5%AC%20%EC%A0%9C%EC%9A%B0%EC%8A%A4%ED%85%8C%ED%81%AC"
+  },
+  {
+    "store_name":"8888로또",
+    "region":"대전 서구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%84%9C%EA%B5%AC%208888%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"북부슈퍼",
+    "region":"경기 의정부시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C%20%EB%B6%81%EB%B6%80%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"한국슈퍼",
+    "region":"경기 부천시 오정구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%ED%95%9C%EA%B5%AD%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"내츄럴하우스복권판매점",
+    "region":"경기 평택시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EB%82%B4%EC%B8%84%EB%9F%B4%ED%95%98%EC%9A%B0%EC%8A%A4%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"로또휴게실",
+    "region":"경기 용인시 기흥구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EB%A1%9C%EB%98%90%ED%9C%B4%EA%B2%8C%EC%8B%A4"
+  },
+  {
+    "store_name":"행운복권방",
+    "region":"경기 의정부시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"신의 축복",
+    "region":"경기 남양주시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%8B%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5"
+  },
+  {
+    "store_name":"진평양행",
+    "region":"강원 강릉시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EA%B0%95%EB%A6%89%EC%8B%9C%20%EC%A7%84%ED%8F%89%EC%96%91%ED%96%89"
+  },
+  {
+    "store_name":"대박마트복권방",
+    "region":"충남 아산시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%95%84%EC%82%B0%EC%8B%9C%20%EB%8C%80%EB%B0%95%EB%A7%88%ED%8A%B8%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"흥건슈퍼",
+    "region":"전북 전주시 완산구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%ED%9D%A5%EA%B1%B4%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"춘향로또",
+    "region":"전북 남원시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EB%82%A8%EC%9B%90%EC%8B%9C%20%EC%B6%98%ED%96%A5%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"영유통(로또복권)",
+    "region":"전북 군산시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EA%B5%B0%EC%82%B0%EC%8B%9C%20%EC%98%81%EC%9C%A0%ED%86%B5%28%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%29"
+  },
+  {
+    "store_name":"로또명당",
+    "region":"경북 의성군",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EC%9D%98%EC%84%B1%EA%B5%B0%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"목화휴게소",
+    "region":"경남 사천시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%82%AC%EC%B2%9C%EC%8B%9C%20%EB%AA%A9%ED%99%94%ED%9C%B4%EA%B2%8C%EC%86%8C"
+  },
+  {
+    "store_name":"터미널복권판매점",
+    "region":"경남 창원시 마산회원구",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC%20%ED%84%B0%EB%AF%B8%EB%84%90%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"대청행복복권",
+    "region":"경남 김해시",
+    "win_count":2,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EB%8C%80%EC%B2%AD%ED%96%89%EB%B3%B5%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"복권마을",
+    "region":"서울 구로구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B5%AC%EB%A1%9C%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%A7%88%EC%9D%84"
+  },
+  {
+    "store_name":"노다지 노원역점 복권방",
+    "region":"서울 노원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EB%85%B8%EB%8B%A4%EC%A7%80%20%EB%85%B8%EC%9B%90%EC%97%AD%EC%A0%90%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"보경식품",
+    "region":"서울 강북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%B6%81%EA%B5%AC%20%EB%B3%B4%EA%B2%BD%EC%8B%9D%ED%92%88"
+  },
+  {
+    "store_name":"진흥수퍼",
+    "region":"서울 강남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%A7%84%ED%9D%A5%EC%88%98%ED%8D%BC"
+  },
+  {
+    "store_name":"신세계슈퍼",
+    "region":"서울 영등포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%8B%A0%EC%84%B8%EA%B3%84%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"하나로슈퍼",
+    "region":"서울 동대문구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%ED%95%98%EB%82%98%EB%A1%9C%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"그린슈퍼",
+    "region":"서울 동대문구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EA%B7%B8%EB%A6%B0%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"삼성마트",
+    "region":"서울 강남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%82%BC%EC%84%B1%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"여명슈퍼마켓",
+    "region":"서울 성북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%EC%97%AC%EB%AA%85%EC%8A%88%ED%8D%BC%EB%A7%88%EC%BC%93"
+  },
+  {
+    "store_name":"종합가판제141호",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%A2%85%ED%95%A9%EA%B0%80%ED%8C%90%EC%A0%9C141%ED%98%B8"
+  },
+  {
+    "store_name":"종합가로판매점113호패션TV앞",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%A2%85%ED%95%A9%EA%B0%80%EB%A1%9C%ED%8C%90%EB%A7%A4%EC%A0%90113%ED%98%B8%ED%8C%A8%EC%85%98TV%EC%95%9E"
+  },
+  {
+    "store_name":"가판100호",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EA%B0%80%ED%8C%90100%ED%98%B8"
+  },
+  {
+    "store_name":"중구-가로가판대-37",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%A4%91%EA%B5%AC-%EA%B0%80%EB%A1%9C%EA%B0%80%ED%8C%90%EB%8C%80-37"
+  },
+  {
+    "store_name":"가판14호",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EA%B0%80%ED%8C%9014%ED%98%B8"
+  },
+  {
+    "store_name":"가판대",
+    "region":"서울 도봉구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EA%B0%80%ED%8C%90%EB%8C%80"
+  },
+  {
+    "store_name":"가로판매점",
+    "region":"서울 용산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EA%B0%80%EB%A1%9C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"가로판매점",
+    "region":"서울 용산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EA%B0%80%EB%A1%9C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"로또복권판매소",
+    "region":"서울 마포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%86%8C"
+  },
+  {
+    "store_name":"토큰박스",
+    "region":"서울 동작구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%ED%86%A0%ED%81%B0%EB%B0%95%EC%8A%A4"
+  },
+  {
+    "store_name":"사당",
+    "region":"서울 관악구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%82%AC%EB%8B%B9"
+  },
+  {
+    "store_name":"잠실매점",
+    "region":"서울 송파구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%9E%A0%EC%8B%A4%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"꿈이현실로",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EA%BF%88%EC%9D%B4%ED%98%84%EC%8B%A4%EB%A1%9C"
+  },
+  {
+    "store_name":"지원물산",
+    "region":"서울 노원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EC%A7%80%EC%9B%90%EB%AC%BC%EC%82%B0"
+  },
+  {
+    "store_name":"복권방",
+    "region":"서울 성북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"가판대20호",
+    "region":"서울 송파구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EA%B0%80%ED%8C%90%EB%8C%8020%ED%98%B8"
+  },
+  {
+    "store_name":"신가로판매점",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%8B%A0%EA%B0%80%EB%A1%9C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"신일",
+    "region":"서울 강서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EC%8B%A0%EC%9D%BC"
+  },
+  {
+    "store_name":"광나루복권방",
+    "region":"서울 광진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EA%B4%91%EB%82%98%EB%A3%A8%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"씨유 망우점2",
+    "region":"서울 중랑구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%EC%94%A8%EC%9C%A0%20%EB%A7%9D%EC%9A%B0%EC%A0%902"
+  },
+  {
+    "store_name":"행운복권방",
+    "region":"서울 도봉구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"세명복권",
+    "region":"서울 마포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%84%B8%EB%AA%85%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"성지로또",
+    "region":"서울 송파구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%84%B1%EC%A7%80%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"살맛나는 세상",
+    "region":"서울 동대문구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%82%B4%EB%A7%9B%EB%82%98%EB%8A%94%20%EC%84%B8%EC%83%81"
+  },
+  {
+    "store_name":"행운식품",
+    "region":"서울 관악구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B4%80%EC%95%85%EA%B5%AC%20%ED%96%89%EC%9A%B4%EC%8B%9D%ED%92%88"
+  },
+  {
+    "store_name":"고고GOGO로또",
+    "region":"서울 광진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EA%B3%A0%EA%B3%A0GOGO%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"고척대박복권&카페",
+    "region":"서울 구로구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B5%AC%EB%A1%9C%EA%B5%AC%20%EA%B3%A0%EC%B2%99%EB%8C%80%EB%B0%95%EB%B3%B5%EA%B6%8C%26%EC%B9%B4%ED%8E%98"
+  },
+  {
+    "store_name":"오케이(O.K)로또",
+    "region":"서울 도봉구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EC%98%A4%EC%BC%80%EC%9D%B4%28O.K%29%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"다람쥐로또",
+    "region":"서울 마포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EB%8B%A4%EB%9E%8C%EC%A5%90%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"행운로또복권방",
+    "region":"서울 성북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%B6%81%EA%B5%AC%20%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"일등",
+    "region":"서울 강동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%9D%BC%EB%93%B1"
+  },
+  {
+    "store_name":"태양 명당 복권방",
+    "region":"서울 금천구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B8%88%EC%B2%9C%EA%B5%AC%20%ED%83%9C%EC%96%91%20%EB%AA%85%EB%8B%B9%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"정안 복권방",
+    "region":"서울 노원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%EC%A0%95%EC%95%88%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"예지행복",
+    "region":"서울 양천구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%EC%98%88%EC%A7%80%ED%96%89%EB%B3%B5"
+  },
+  {
+    "store_name":"꿈이있는 로또점(복권판매점)",
+    "region":"서울 은평구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EA%BF%88%EC%9D%B4%EC%9E%88%EB%8A%94%20%EB%A1%9C%EB%98%90%EC%A0%90%28%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90%29"
+  },
+  {
+    "store_name":"쌍둥이네복권방",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%8C%8D%EB%91%A5%EC%9D%B4%EB%84%A4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"태릉시장복권방",
+    "region":"서울 중랑구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EB%9E%91%EA%B5%AC%20%ED%83%9C%EB%A6%89%EC%8B%9C%EC%9E%A5%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"주황이 복권방",
+    "region":"서울 서초구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%A3%BC%ED%99%A9%EC%9D%B4%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"월드로또복권 판매점",
+    "region":"서울 강남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%9B%94%EB%93%9C%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%20%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"행운당",
+    "region":"서울 노원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%85%B8%EC%9B%90%EA%B5%AC%20%ED%96%89%EC%9A%B4%EB%8B%B9"
+  },
+  {
+    "store_name":"장안평역 3번출구 가판대",
+    "region":"서울 동대문구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EC%9E%A5%EC%95%88%ED%8F%89%EC%97%AD%203%EB%B2%88%EC%B6%9C%EA%B5%AC%20%EA%B0%80%ED%8C%90%EB%8C%80"
+  },
+  {
+    "store_name":"온누리복권",
+    "region":"서울 동작구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%99%EC%9E%91%EA%B5%AC%20%EC%98%A8%EB%88%84%EB%A6%AC%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"믿음복권방",
+    "region":"서울 서대문구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC%20%EB%AF%BF%EC%9D%8C%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"지에스(GS)25 신길센트럴점",
+    "region":"서울 영등포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%A7%80%EC%97%90%EC%8A%A4%28GS%2925%20%EC%8B%A0%EA%B8%B8%EC%84%BC%ED%8A%B8%EB%9F%B4%EC%A0%90"
+  },
+  {
+    "store_name":"크린토피아\/최강로또",
+    "region":"서울 은평구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%ED%81%AC%EB%A6%B0%ED%86%A0%ED%94%BC%EC%95%84\/%EC%B5%9C%EA%B0%95%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"무지개로또",
+    "region":"서울 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%AC%B4%EC%A7%80%EA%B0%9C%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"구일 로또 전자담배",
+    "region":"서울 구로구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B5%AC%EB%A1%9C%EA%B5%AC%20%EA%B5%AC%EC%9D%BC%20%EB%A1%9C%EB%98%90%20%EC%A0%84%EC%9E%90%EB%8B%B4%EB%B0%B0"
+  },
+  {
+    "store_name":"해인복권",
+    "region":"서울 도봉구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%ED%95%B4%EC%9D%B8%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"가든파이브 복권",
+    "region":"서울 송파구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EA%B0%80%EB%93%A0%ED%8C%8C%EC%9D%B4%EB%B8%8C%20%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"굿럭커피",
+    "region":"서울 은평구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EA%B5%BF%EB%9F%AD%EC%BB%A4%ED%94%BC"
+  },
+  {
+    "store_name":"마곡점빵",
+    "region":"서울 강서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%A7%88%EA%B3%A1%EC%A0%90%EB%B9%B5"
+  },
+  {
+    "store_name":"5번가 로또",
+    "region":"서울 송파구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%205%EB%B2%88%EA%B0%80%20%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"복권나라",
+    "region":"서울 성동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"미나식품(로또판매점)",
+    "region":"서울 강서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%AF%B8%EB%82%98%EC%8B%9D%ED%92%88%28%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90%29"
+  },
+  {
+    "store_name":"잉크와복권",
+    "region":"서울 강서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EC%9E%89%ED%81%AC%EC%99%80%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"복권나라",
+    "region":"서울 광진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"현대복권방",
+    "region":"서울 동대문구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%8F%99%EB%8C%80%EB%AC%B8%EA%B5%AC%20%ED%98%84%EB%8C%80%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"용꿈돼지꿈",
+    "region":"서울 마포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%9A%A9%EA%BF%88%EB%8F%BC%EC%A7%80%EA%BF%88"
+  },
+  {
+    "store_name":"하나복권(가로판매점)",
+    "region":"서울 영등포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%95%98%EB%82%98%EB%B3%B5%EA%B6%8C%28%EA%B0%80%EB%A1%9C%ED%8C%90%EB%A7%A4%EC%A0%90%29"
+  },
+  {
+    "store_name":"편의점사랑",
+    "region":"서울 강서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%8E%B8%EC%9D%98%EC%A0%90%EC%82%AC%EB%9E%91"
+  },
+  {
+    "store_name":"가로판매점",
+    "region":"서울 영등포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B0%80%EB%A1%9C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"천하명당초량점",
+    "region":"부산 동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EA%B5%AC%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9%EC%B4%88%EB%9F%89%EC%A0%90"
+  },
+  {
+    "store_name":"복권방",
+    "region":"부산 사하구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"왕대박",
+    "region":"부산 동래구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EB%9E%98%EA%B5%AC%20%EC%99%95%EB%8C%80%EB%B0%95"
+  },
+  {
+    "store_name":"돈벼락맞는곳",
+    "region":"부산 동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EA%B5%AC%20%EB%8F%88%EB%B2%BC%EB%9D%BD%EB%A7%9E%EB%8A%94%EA%B3%B3"
+  },
+  {
+    "store_name":"뉴빅마트",
+    "region":"부산 기장군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EA%B8%B0%EC%9E%A5%EA%B5%B0%20%EB%89%B4%EB%B9%85%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"우정식품",
+    "region":"부산 동래구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EB%9E%98%EA%B5%AC%20%EC%9A%B0%EC%A0%95%EC%8B%9D%ED%92%88"
+  },
+  {
+    "store_name":"성광복권명당",
+    "region":"부산 연제구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%97%B0%EC%A0%9C%EA%B5%AC%20%EC%84%B1%EA%B4%91%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"청솔서점",
+    "region":"부산 사하구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EC%B2%AD%EC%86%94%EC%84%9C%EC%A0%90"
+  },
+  {
+    "store_name":"행운로또",
+    "region":"부산 동래구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EB%9E%98%EA%B5%AC%20%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"로또복권",
+    "region":"부산 사하구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"빅세일복권방",
+    "region":"부산 부산진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%B9%85%EC%84%B8%EC%9D%BC%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"로터리복권방",
+    "region":"부산 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%84%9C%EA%B5%AC%20%EB%A1%9C%ED%84%B0%EB%A6%AC%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"백금당",
+    "region":"부산 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EB%B0%B1%EA%B8%88%EB%8B%B9"
+  },
+  {
+    "store_name":"돼지복권명당",
+    "region":"부산 기장군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EA%B8%B0%EC%9E%A5%EA%B5%B0%20%EB%8F%BC%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"럭키",
+    "region":"부산 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%B6%81%EA%B5%AC%20%EB%9F%AD%ED%82%A4"
+  },
+  {
+    "store_name":"모라행운로또",
+    "region":"부산 사상구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%82%AC%EC%83%81%EA%B5%AC%20%EB%AA%A8%EB%9D%BC%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"복권판매점 명지국제신도시점",
+    "region":"부산 강서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90%20%EB%AA%85%EC%A7%80%EA%B5%AD%EC%A0%9C%EC%8B%A0%EB%8F%84%EC%8B%9C%EC%A0%90"
+  },
+  {
+    "store_name":"평생꽃길대연점",
+    "region":"부산 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%ED%8F%89%EC%83%9D%EA%BD%83%EA%B8%B8%EB%8C%80%EC%97%B0%EC%A0%90"
+  },
+  {
+    "store_name":"행운나눔",
+    "region":"부산 사하구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%ED%96%89%EC%9A%B4%EB%82%98%EB%88%94"
+  },
+  {
+    "store_name":"요기어때",
+    "region":"부산 해운대구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC%20%EC%9A%94%EA%B8%B0%EC%96%B4%EB%95%8C"
+  },
+  {
+    "store_name":"행운 로또복권",
+    "region":"부산 해운대구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC%20%ED%96%89%EC%9A%B4%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"국물이시원해",
+    "region":"부산 금정구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EA%B8%88%EC%A0%95%EA%B5%AC%20%EA%B5%AD%EB%AC%BC%EC%9D%B4%EC%8B%9C%EC%9B%90%ED%95%B4"
+  },
+  {
+    "store_name":"금두꺼비 복권방",
+    "region":"부산 동래구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EB%9E%98%EA%B5%AC%20%EA%B8%88%EB%91%90%EA%BA%BC%EB%B9%84%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"다시 꿈꾸는 미래 동행복권",
+    "region":"부산 부산진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%8B%A4%EC%8B%9C%20%EA%BF%88%EA%BE%B8%EB%8A%94%20%EB%AF%B8%EB%9E%98%20%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"하늘복권방",
+    "region":"부산 해운대구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC%20%ED%95%98%EB%8A%98%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"천하제일명당",
+    "region":"부산 부산진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EC%B2%9C%ED%95%98%EC%A0%9C%EC%9D%BC%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"복드림 복권방",
+    "region":"부산 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%B6%81%EA%B5%AC%20%EB%B3%B5%EB%93%9C%EB%A6%BC%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"동해마트",
+    "region":"부산 동래구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%8F%99%EB%9E%98%EA%B5%AC%20%EB%8F%99%ED%95%B4%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"돈벼락맞는곳 부산서면점",
+    "region":"부산 부산진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%8F%88%EB%B2%BC%EB%9D%BD%EB%A7%9E%EB%8A%94%EA%B3%B3%20%EB%B6%80%EC%82%B0%EC%84%9C%EB%A9%B4%EC%A0%90"
+  },
+  {
+    "store_name":"기장슈퍼",
+    "region":"부산 기장군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%B6%80%EC%82%B0%20%EA%B8%B0%EC%9E%A5%EA%B5%B0%20%EA%B8%B0%EC%9E%A5%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"천하명당복권",
+    "region":"대구 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%B6%81%EA%B5%AC%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"거봉마트(원고개시장)",
+    "region":"대구 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EC%84%9C%EA%B5%AC%20%EA%B1%B0%EB%B4%89%EB%A7%88%ED%8A%B8%28%EC%9B%90%EA%B3%A0%EA%B0%9C%EC%8B%9C%EC%9E%A5%29"
+  },
+  {
+    "store_name":"씨스페이스 성서계대점",
+    "region":"대구 달서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%8B%AC%EC%84%9C%EA%B5%AC%20%EC%94%A8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%84%B1%EC%84%9C%EA%B3%84%EB%8C%80%EC%A0%90"
+  },
+  {
+    "store_name":"서재강변로또",
+    "region":"대구 달성군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%8B%AC%EC%84%B1%EA%B5%B0%20%EC%84%9C%EC%9E%AC%EA%B0%95%EB%B3%80%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"복권명당",
+    "region":"대구 수성구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"황금대박점",
+    "region":"대구 수성구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%EA%B5%AC%20%ED%99%A9%EA%B8%88%EB%8C%80%EB%B0%95%EC%A0%90"
+  },
+  {
+    "store_name":"로또명당(유가테크노점)",
+    "region":"대구 달성군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%8B%AC%EC%84%B1%EA%B5%B0%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9%28%EC%9C%A0%EA%B0%80%ED%85%8C%ED%81%AC%EB%85%B8%EC%A0%90%29"
+  },
+  {
+    "store_name":"반달커피대구침산점",
+    "region":"대구 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%B6%81%EA%B5%AC%20%EB%B0%98%EB%8B%AC%EC%BB%A4%ED%94%BC%EB%8C%80%EA%B5%AC%EC%B9%A8%EC%82%B0%EC%A0%90"
+  },
+  {
+    "store_name":"일등커피로또판매점",
+    "region":"대구 수성구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%EA%B5%AC%20%EC%9D%BC%EB%93%B1%EC%BB%A4%ED%94%BC%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"행복한복권",
+    "region":"대구 수성구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%EA%B5%AC%20%ED%96%89%EB%B3%B5%ED%95%9C%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"럭키로또",
+    "region":"대구 수성구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%EA%B5%AC%20%EB%9F%AD%ED%82%A4%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"와이에스컴퍼니",
+    "region":"대구 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%82%A8%EA%B5%AC%20%EC%99%80%EC%9D%B4%EC%97%90%EC%8A%A4%EC%BB%B4%ED%8D%BC%EB%8B%88"
+  },
+  {
+    "store_name":"복권명당신기점",
+    "region":"대구 동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EB%8F%99%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9%EC%8B%A0%EA%B8%B0%EC%A0%90"
+  },
+  {
+    "store_name":"한솔복권&마트",
+    "region":"인천 미추홀구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%ED%95%9C%EC%86%94%EB%B3%B5%EA%B6%8C%26%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"복권전문점",
+    "region":"인천 부평구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EC%A0%84%EB%AC%B8%EC%A0%90"
+  },
+  {
+    "store_name":"제일슈퍼",
+    "region":"인천 연수구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EC%A0%9C%EC%9D%BC%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"24시슈퍼",
+    "region":"인천 부평구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%2024%EC%8B%9C%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"L마트",
+    "region":"인천 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%84%9C%EA%B5%AC%20L%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"한마음병원앞버스매표소",
+    "region":"인천 계양구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EA%B3%84%EC%96%91%EA%B5%AC%20%ED%95%9C%EB%A7%88%EC%9D%8C%EB%B3%91%EC%9B%90%EC%95%9E%EB%B2%84%EC%8A%A4%EB%A7%A4%ED%91%9C%EC%86%8C"
+  },
+  {
+    "store_name":"인현동지하가판",
+    "region":"인천 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%A4%91%EA%B5%AC%20%EC%9D%B8%ED%98%84%EB%8F%99%EC%A7%80%ED%95%98%EA%B0%80%ED%8C%90"
+  },
+  {
+    "store_name":"명동럭키로또",
+    "region":"인천 연수구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EB%AA%85%EB%8F%99%EB%9F%AD%ED%82%A4%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"한국인세계대박복권",
+    "region":"인천 연수구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%84%B8%EA%B3%84%EB%8C%80%EB%B0%95%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"로또복권방",
+    "region":"인천 부평구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%B6%80%ED%8F%89%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"우리복권",
+    "region":"인천 남동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EC%9A%B0%EB%A6%AC%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"노다지로또",
+    "region":"인천 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%84%9C%EA%B5%AC%20%EB%85%B8%EB%8B%A4%EC%A7%80%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"희망복권",
+    "region":"인천 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%84%9C%EA%B5%AC%20%ED%9D%AC%EB%A7%9D%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"황금복권방",
+    "region":"인천 연수구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%ED%99%A9%EA%B8%88%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"하영",
+    "region":"인천 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%84%9C%EA%B5%AC%20%ED%95%98%EC%98%81"
+  },
+  {
+    "store_name":"로터리 클럽",
+    "region":"인천 미추홀구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%A1%9C%ED%84%B0%EB%A6%AC%20%ED%81%B4%EB%9F%BD"
+  },
+  {
+    "store_name":"동인천황금로또",
+    "region":"인천 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%A4%91%EA%B5%AC%20%EB%8F%99%EC%9D%B8%EC%B2%9C%ED%99%A9%EA%B8%88%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"행복드림로또판매점",
+    "region":"인천 강화군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EA%B0%95%ED%99%94%EA%B5%B0%20%ED%96%89%EB%B3%B5%EB%93%9C%EB%A6%BC%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"대박복권판매점",
+    "region":"인천 남동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%8C%80%EB%B0%95%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"행복드림 복권",
+    "region":"인천 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%84%9C%EA%B5%AC%20%ED%96%89%EB%B3%B5%EB%93%9C%EB%A6%BC%20%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"이유복권",
+    "region":"인천 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%84%9C%EA%B5%AC%20%EC%9D%B4%EC%9C%A0%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"홍이복권방",
+    "region":"인천 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%84%9C%EA%B5%AC%20%ED%99%8D%EC%9D%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"복덩이 로또",
+    "region":"인천 연수구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EB%B3%B5%EB%8D%A9%EC%9D%B4%20%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"윤",
+    "region":"인천 미추홀구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EC%9C%A4"
+  },
+  {
+    "store_name":"돈방석",
+    "region":"인천 남동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%8F%88%EB%B0%A9%EC%84%9D"
+  },
+  {
+    "store_name":"골든벨 복권판매점",
+    "region":"인천 미추홀구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EA%B3%A8%EB%93%A0%EB%B2%A8%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"대박신화복권판매점",
+    "region":"인천 미추홀구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%EB%8C%80%EB%B0%95%EC%8B%A0%ED%99%94%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"황금돼지",
+    "region":"인천 미추홀구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9D%B8%EC%B2%9C%20%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC%20%ED%99%A9%EA%B8%88%EB%8F%BC%EC%A7%80"
+  },
+  {
+    "store_name":"노다지복권방백운점",
+    "region":"광주 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EB%82%A8%EA%B5%AC%20%EB%85%B8%EB%8B%A4%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%B0%A9%EB%B0%B1%EC%9A%B4%EC%A0%90"
+  },
+  {
+    "store_name":"역전복권방",
+    "region":"광주 광산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%97%AD%EC%A0%84%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"해피+24시편의점",
+    "region":"광주 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EB%B6%81%EA%B5%AC%20%ED%95%B4%ED%94%BC%2B24%EC%8B%9C%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"동키호테편의점",
+    "region":"광주 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EC%84%9C%EA%B5%AC%20%EB%8F%99%ED%82%A4%ED%98%B8%ED%85%8C%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"광주도서유통",
+    "region":"광주 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EB%82%A8%EA%B5%AC%20%EA%B4%91%EC%A3%BC%EB%8F%84%EC%84%9C%EC%9C%A0%ED%86%B5"
+  },
+  {
+    "store_name":"알리바이",
+    "region":"광주 광산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%95%8C%EB%A6%AC%EB%B0%94%EC%9D%B4"
+  },
+  {
+    "store_name":"복권나라",
+    "region":"광주 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EB%B6%81%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"천하명당복권방",
+    "region":"광주 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EC%84%9C%EA%B5%AC%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"차밍플라워 로또",
+    "region":"광주 광산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%B0%A8%EB%B0%8D%ED%94%8C%EB%9D%BC%EC%9B%8C%20%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"복권나라(중흥점)",
+    "region":"광주 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EB%B6%81%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC%28%EC%A4%91%ED%9D%A5%EC%A0%90%29"
+  },
+  {
+    "store_name":"광주공항로또",
+    "region":"광주 광산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EA%B4%91%EC%A3%BC%EA%B3%B5%ED%95%AD%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"현대마트점",
+    "region":"광주 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EC%84%9C%EA%B5%AC%20%ED%98%84%EB%8C%80%EB%A7%88%ED%8A%B8%EC%A0%90"
+  },
+  {
+    "store_name":"복권나라(매곡동)",
+    "region":"광주 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EB%B6%81%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC%28%EB%A7%A4%EA%B3%A1%EB%8F%99%29"
+  },
+  {
+    "store_name":"금집복권",
+    "region":"광주 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B4%91%EC%A3%BC%20%EB%B6%81%EA%B5%AC%20%EA%B8%88%EC%A7%91%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"대전하이퍼",
+    "region":"대전 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%A4%91%EA%B5%AC%20%EB%8C%80%EC%A0%84%ED%95%98%EC%9D%B4%ED%8D%BC"
+  },
+  {
+    "store_name":"복권명당",
+    "region":"대전 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%84%9C%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"로또복권방",
+    "region":"대전 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%84%9C%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"로또편의점",
+    "region":"대전 유성구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%9C%A0%EC%84%B1%EA%B5%AC%20%EB%A1%9C%EB%98%90%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"로또명당 황금돼지",
+    "region":"대전 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%A4%91%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9%20%ED%99%A9%EA%B8%88%EB%8F%BC%EC%A7%80"
+  },
+  {
+    "store_name":"마치복권",
+    "region":"대전 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%84%9C%EA%B5%AC%20%EB%A7%88%EC%B9%98%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"까치로또판매점",
+    "region":"대전 서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%84%9C%EA%B5%AC%20%EA%B9%8C%EC%B9%98%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"왕대박 복권판매점",
+    "region":"대전 유성구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%9C%A0%EC%84%B1%EA%B5%AC%20%EC%99%95%EB%8C%80%EB%B0%95%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"대박로또",
+    "region":"대전 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EC%A4%91%EA%B5%AC%20%EB%8C%80%EB%B0%95%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"베스토아(용전2호)",
+    "region":"대전 동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EC%A0%84%20%EB%8F%99%EA%B5%AC%20%EB%B2%A0%EC%8A%A4%ED%86%A0%EC%95%84%28%EC%9A%A9%EC%A0%842%ED%98%B8%29"
+  },
+  {
+    "store_name":"한꿈복권방",
+    "region":"울산 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%ED%95%9C%EA%BF%88%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"보람복권방",
+    "region":"울산 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EB%B3%B4%EB%9E%8C%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"우리들공업탑점",
+    "region":"울산 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EC%9A%B0%EB%A6%AC%EB%93%A4%EA%B3%B5%EC%97%85%ED%83%91%EC%A0%90"
+  },
+  {
+    "store_name":"로또25시",
+    "region":"울산 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EB%A1%9C%EB%98%9025%EC%8B%9C"
+  },
+  {
+    "store_name":"로또명당진하점",
+    "region":"울산 울주군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EC%9A%B8%EC%A3%BC%EA%B5%B0%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9%EC%A7%84%ED%95%98%EC%A0%90"
+  },
+  {
+    "store_name":"지에스25(울산우정선경점)로또",
+    "region":"울산 중구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EC%A7%80%EC%97%90%EC%8A%A425%28%EC%9A%B8%EC%82%B0%EC%9A%B0%EC%A0%95%EC%84%A0%EA%B2%BD%EC%A0%90%29%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"세븐일레븐 울산동진점",
+    "region":"울산 동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%8F%99%EA%B5%AC%20%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90%20%EC%9A%B8%EC%82%B0%EB%8F%99%EC%A7%84%EC%A0%90"
+  },
+  {
+    "store_name":"예가유통",
+    "region":"울산 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%B6%81%EA%B5%AC%20%EC%98%88%EA%B0%80%EC%9C%A0%ED%86%B5"
+  },
+  {
+    "store_name":"또로또",
+    "region":"울산 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EB%98%90%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"동성슈퍼",
+    "region":"울산 울주군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EC%9A%B8%EC%A3%BC%EA%B5%B0%20%EB%8F%99%EC%84%B1%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"영화유통(1등복권방)",
+    "region":"울산 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EC%98%81%ED%99%94%EC%9C%A0%ED%86%B5%281%EB%93%B1%EB%B3%B5%EA%B6%8C%EB%B0%A9%29"
+  },
+  {
+    "store_name":"셀피아",
+    "region":"울산 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%9A%B8%EC%82%B0%20%EB%B6%81%EA%B5%AC%20%EC%85%80%ED%94%BC%EC%95%84"
+  },
+  {
+    "store_name":"노다지복권방",
+    "region":"경기 시흥시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EB%85%B8%EB%8B%A4%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"송정복권",
+    "region":"경기 군포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B5%B0%ED%8F%AC%EC%8B%9C%20%EC%86%A1%EC%A0%95%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"대운복권",
+    "region":"경기 성남시 중원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EC%A4%91%EC%9B%90%EA%B5%AC%20%EB%8C%80%EC%9A%B4%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"천하명당복권방",
+    "region":"경기 수원시 팔달구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%8C%94%EB%8B%AC%EA%B5%AC%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"해피마트",
+    "region":"경기 의왕시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%99%95%EC%8B%9C%20%ED%95%B4%ED%94%BC%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"운수대통",
+    "region":"경기 군포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B5%B0%ED%8F%AC%EC%8B%9C%20%EC%9A%B4%EC%88%98%EB%8C%80%ED%86%B5"
+  },
+  {
+    "store_name":"리버스 편의점",
+    "region":"경기 하남시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EB%A6%AC%EB%B2%84%EC%8A%A4%20%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"공원슈퍼",
+    "region":"경기 수원시 장안구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9E%A5%EC%95%88%EA%B5%AC%20%EA%B3%B5%EC%9B%90%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"터미널식품",
+    "region":"경기 의정부시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C%20%ED%84%B0%EB%AF%B8%EB%84%90%EC%8B%9D%ED%92%88"
+  },
+  {
+    "store_name":"복권판매점",
+    "region":"경기 고양시 일산서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"버스표가판점",
+    "region":"경기 안양시 동안구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%96%91%EC%8B%9C%20%EB%8F%99%EC%95%88%EA%B5%AC%20%EB%B2%84%EC%8A%A4%ED%91%9C%EA%B0%80%ED%8C%90%EC%A0%90"
+  },
+  {
+    "store_name":"바로전산",
+    "region":"경기 광명시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EB%B0%94%EB%A1%9C%EC%A0%84%EC%82%B0"
+  },
+  {
+    "store_name":"만물전파사",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EB%A7%8C%EB%AC%BC%EC%A0%84%ED%8C%8C%EC%82%AC"
+  },
+  {
+    "store_name":"로또N삭스",
+    "region":"경기 의정부시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C%20%EB%A1%9C%EB%98%90N%EC%82%AD%EC%8A%A4"
+  },
+  {
+    "store_name":"웅진",
+    "region":"경기 수원시 영통구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%9B%85%EC%A7%84"
+  },
+  {
+    "store_name":"다들복권방",
+    "region":"경기 부천시 오정구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%98%A4%EC%A0%95%EA%B5%AC%20%EB%8B%A4%EB%93%A4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"카베",
+    "region":"경기 부천시 원미구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%9B%90%EB%AF%B8%EA%B5%AC%20%EC%B9%B4%EB%B2%A0"
+  },
+  {
+    "store_name":"복권나라",
+    "region":"경기 오산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"로토피아",
+    "region":"경기 광명시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EB%A1%9C%ED%86%A0%ED%94%BC%EC%95%84"
+  },
+  {
+    "store_name":"로또명당상동점",
+    "region":"경기 부천시 소사구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%86%8C%EC%82%AC%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9%EC%83%81%EB%8F%99%EC%A0%90"
+  },
+  {
+    "store_name":"그린마트",
+    "region":"경기 성남시 분당구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%EA%B7%B8%EB%A6%B0%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"명당골복권방",
+    "region":"경기 수원시 권선구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EB%AA%85%EB%8B%B9%EA%B3%A8%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"로또복권방",
+    "region":"경기 시흥시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"머니머니",
+    "region":"경기 시흥시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EB%A8%B8%EB%8B%88%EB%A8%B8%EB%8B%88"
+  },
+  {
+    "store_name":"로또명당",
+    "region":"경기 시흥시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"광성슈퍼",
+    "region":"경기 이천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%B4%EC%B2%9C%EC%8B%9C%20%EA%B4%91%EC%84%B1%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"황금복권마트",
+    "region":"경기 이천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%B4%EC%B2%9C%EC%8B%9C%20%ED%99%A9%EA%B8%88%EB%B3%B5%EA%B6%8C%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"행운복권방",
+    "region":"경기 김포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"세븐일레븐 평내지원점",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90%20%ED%8F%89%EB%82%B4%EC%A7%80%EC%9B%90%EC%A0%90"
+  },
+  {
+    "store_name":"우리로또복권",
+    "region":"경기 연천군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%97%B0%EC%B2%9C%EA%B5%B0%20%EC%9A%B0%EB%A6%AC%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"서울로또",
+    "region":"경기 의정부시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C%20%EC%84%9C%EC%9A%B8%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"복권나라",
+    "region":"경기 포천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%AC%EC%B2%9C%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"올인 (all in)",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EC%98%AC%EC%9D%B8%20%28all%20in%29"
+  },
+  {
+    "store_name":"드림복권방",
+    "region":"경기 수원시 권선구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EB%93%9C%EB%A6%BC%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"세븐일레븐 안산역점",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90%20%EC%95%88%EC%82%B0%EC%97%AD%EC%A0%90"
+  },
+  {
+    "store_name":"로또유통",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EB%A1%9C%EB%98%90%EC%9C%A0%ED%86%B5"
+  },
+  {
+    "store_name":"로또판매선부점",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%84%A0%EB%B6%80%EC%A0%90"
+  },
+  {
+    "store_name":"행운을주는로또판매점",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%ED%96%89%EC%9A%B4%EC%9D%84%EC%A3%BC%EB%8A%94%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"순살로복권",
+    "region":"경기 의왕시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%99%95%EC%8B%9C%20%EC%88%9C%EC%82%B4%EB%A1%9C%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"복돼지복권방",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EB%B3%B5%EB%8F%BC%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"꿈이있는로또",
+    "region":"경기 여주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%97%AC%EC%A3%BC%EC%8B%9C%20%EA%BF%88%EC%9D%B4%EC%9E%88%EB%8A%94%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"마두5번출구가판로또",
+    "region":"경기 고양시 일산동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%EB%A7%88%EB%91%905%EB%B2%88%EC%B6%9C%EA%B5%AC%EA%B0%80%ED%8C%90%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"아이지에이마트 오산무지개점",
+    "region":"경기 오산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EC%95%84%EC%9D%B4%EC%A7%80%EC%97%90%EC%9D%B4%EB%A7%88%ED%8A%B8%20%EC%98%A4%EC%82%B0%EB%AC%B4%EC%A7%80%EA%B0%9C%EC%A0%90"
+  },
+  {
+    "store_name":"로또복권슈퍼(국제꽃화원)",
+    "region":"경기 의정부시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EC%8A%88%ED%8D%BC%28%EA%B5%AD%EC%A0%9C%EA%BD%83%ED%99%94%EC%9B%90%29"
+  },
+  {
+    "store_name":"평택포승점로또",
+    "region":"경기 평택시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%ED%8F%89%ED%83%9D%ED%8F%AC%EC%8A%B9%EC%A0%90%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"100억로또점",
+    "region":"경기 김포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20100%EC%96%B5%EB%A1%9C%EB%98%90%EC%A0%90"
+  },
+  {
+    "store_name":"153나눔로또편의점",
+    "region":"경기 성남시 분당구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20153%EB%82%98%EB%88%94%EB%A1%9C%EB%98%90%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"로또복권",
+    "region":"경기 오산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"주몽동명",
+    "region":"경기 용인시 수지구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%88%98%EC%A7%80%EA%B5%AC%20%EC%A3%BC%EB%AA%BD%EB%8F%99%EB%AA%85"
+  },
+  {
+    "store_name":"천하명당",
+    "region":"경기 파주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"바른",
+    "region":"경기 하남시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EB%B0%94%EB%A5%B8"
+  },
+  {
+    "store_name":"동탄복권방",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EB%8F%99%ED%83%84%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"온누리로또",
+    "region":"경기 수원시 권선구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EC%98%A8%EB%88%84%EB%A6%AC%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"비휴 로또",
+    "region":"경기 오산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%EB%B9%84%ED%9C%B4%20%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"복권전문점",
+    "region":"경기 시흥시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EC%A0%84%EB%AC%B8%EC%A0%90"
+  },
+  {
+    "store_name":"하남시청 세븐일레븐 로또",
+    "region":"경기 하남시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%95%98%EB%82%A8%EC%8B%9C%20%ED%95%98%EB%82%A8%EC%8B%9C%EC%B2%AD%20%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90%20%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"교통카드충전소",
+    "region":"경기 용인시 처인구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%B9%B4%EB%93%9C%EC%B6%A9%EC%A0%84%EC%86%8C"
+  },
+  {
+    "store_name":"로또편의점",
+    "region":"경기 김포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20%EB%A1%9C%EB%98%90%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"새희망복권",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EC%83%88%ED%9D%AC%EB%A7%9D%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"화랑로또판매점",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%ED%99%94%EB%9E%91%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"1등로또",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%201%EB%93%B1%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"로또복권편의점",
+    "region":"경기 수원시 권선구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"정통복권방",
+    "region":"경기 수원시 팔달구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%8C%94%EB%8B%AC%EA%B5%AC%20%EC%A0%95%ED%86%B5%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"남문시장",
+    "region":"경기 수원시 팔달구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%8C%94%EB%8B%AC%EA%B5%AC%20%EB%82%A8%EB%AC%B8%EC%8B%9C%EC%9E%A5"
+  },
+  {
+    "store_name":"로또카페",
+    "region":"경기 평택시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EB%A1%9C%EB%98%90%EC%B9%B4%ED%8E%98"
+  },
+  {
+    "store_name":"오남 로또택배",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%98%A4%EB%82%A8%20%EB%A1%9C%EB%98%90%ED%83%9D%EB%B0%B0"
+  },
+  {
+    "store_name":"행운복권",
+    "region":"경기 군포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B5%B0%ED%8F%AC%EC%8B%9C%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"새말편의점",
+    "region":"경기 안성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%84%B1%EC%8B%9C%20%EC%83%88%EB%A7%90%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"신의한수",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EC%8B%A0%EC%9D%98%ED%95%9C%EC%88%98"
+  },
+  {
+    "store_name":"씨유 포천인생역전점",
+    "region":"경기 포천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%AC%EC%B2%9C%EC%8B%9C%20%EC%94%A8%EC%9C%A0%20%ED%8F%AC%EC%B2%9C%EC%9D%B8%EC%83%9D%EC%97%AD%EC%A0%84%EC%A0%90"
+  },
+  {
+    "store_name":"고양행복복권",
+    "region":"경기 고양시 덕양구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B3%A0%EC%96%91%ED%96%89%EB%B3%B5%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"씨월드",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%94%A8%EC%9B%94%EB%93%9C"
+  },
+  {
+    "store_name":"월산리주고받는로또",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%9B%94%EC%82%B0%EB%A6%AC%EC%A3%BC%EA%B3%A0%EB%B0%9B%EB%8A%94%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"한방복권",
+    "region":"경기 파주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%ED%95%9C%EB%B0%A9%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"대운로또(씨스페이스)",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EB%8C%80%EC%9A%B4%EB%A1%9C%EB%98%90%28%EC%94%A8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%29"
+  },
+  {
+    "store_name":"한아름 복권",
+    "region":"경기 김포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B9%80%ED%8F%AC%EC%8B%9C%20%ED%95%9C%EC%95%84%EB%A6%84%20%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"드림 복권판매점",
+    "region":"경기 부천시 원미구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%9B%90%EB%AF%B8%EA%B5%AC%20%EB%93%9C%EB%A6%BC%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"천하명당",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"지에스25 안성칠곡",
+    "region":"경기 안성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%84%B1%EC%8B%9C%20%EC%A7%80%EC%97%90%EC%8A%A425%20%EC%95%88%EC%84%B1%EC%B9%A0%EA%B3%A1"
+  },
+  {
+    "store_name":"황금복권판매점",
+    "region":"경기 양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%96%91%EC%A3%BC%EC%8B%9C%20%ED%99%A9%EA%B8%88%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"365대박찬스",
+    "region":"경기 양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%96%91%EC%A3%BC%EC%8B%9C%20365%EB%8C%80%EB%B0%95%EC%B0%AC%EC%8A%A4"
+  },
+  {
+    "store_name":"동탄호수복권",
+    "region":"경기 화성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%99%94%EC%84%B1%EC%8B%9C%20%EB%8F%99%ED%83%84%ED%98%B8%EC%88%98%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"동행복권(로또복권)",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C%28%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%29"
+  },
+  {
+    "store_name":"대운상사",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EB%8C%80%EC%9A%B4%EC%83%81%EC%82%AC"
+  },
+  {
+    "store_name":"영앤로또",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EC%98%81%EC%95%A4%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"1번지복권방",
+    "region":"경기 성남시 중원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EC%A4%91%EC%9B%90%EA%B5%AC%201%EB%B2%88%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"수원역로또맛집",
+    "region":"경기 수원시 팔달구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%8C%94%EB%8B%AC%EA%B5%AC%20%EC%88%98%EC%9B%90%EC%97%AD%EB%A1%9C%EB%98%90%EB%A7%9B%EC%A7%91"
+  },
+  {
+    "store_name":"아이지에이마트 동명사랑점",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EC%95%84%EC%9D%B4%EC%A7%80%EC%97%90%EC%9D%B4%EB%A7%88%ED%8A%B8%20%EB%8F%99%EB%AA%85%EC%82%AC%EB%9E%91%EC%A0%90"
+  },
+  {
+    "store_name":"똥광 로또 복권방",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EB%98%A5%EA%B4%91%20%EB%A1%9C%EB%98%90%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"당첨쑥쑥복권",
+    "region":"경기 의왕시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9D%98%EC%99%95%EC%8B%9C%20%EB%8B%B9%EC%B2%A8%EC%91%A5%EC%91%A5%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"한빛3단지 천지인",
+    "region":"경기 파주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%ED%95%9C%EB%B9%9B3%EB%8B%A8%EC%A7%80%20%EC%B2%9C%EC%A7%80%EC%9D%B8"
+  },
+  {
+    "store_name":"탄현대박로또복권",
+    "region":"경기 파주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%ED%83%84%ED%98%84%EB%8C%80%EB%B0%95%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"로또월롱명당점",
+    "region":"경기 파주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8C%8C%EC%A3%BC%EC%8B%9C%20%EB%A1%9C%EB%98%90%EC%9B%94%EB%A1%B1%EB%AA%85%EB%8B%B9%EC%A0%90"
+  },
+  {
+    "store_name":"복권판매점",
+    "region":"경기 광명시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"행복나눔로또",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%ED%96%89%EB%B3%B5%EB%82%98%EB%88%94%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"민복권",
+    "region":"경기 동두천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C%20%EB%AF%BC%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"복이만석",
+    "region":"경기 수원시 영통구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EB%B3%B5%EC%9D%B4%EB%A7%8C%EC%84%9D"
+  },
+  {
+    "store_name":"행운강림 로또방",
+    "region":"경기 안산시 상록구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EC%83%81%EB%A1%9D%EA%B5%AC%20%ED%96%89%EC%9A%B4%EA%B0%95%EB%A6%BC%20%EB%A1%9C%EB%98%90%EB%B0%A9"
+  },
+  {
+    "store_name":"초이스 복권판매점",
+    "region":"경기 안성시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%84%B1%EC%8B%9C%20%EC%B4%88%EC%9D%B4%EC%8A%A4%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"양평 대명점",
+    "region":"경기 양평군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%96%91%ED%8F%89%EA%B5%B0%20%EC%96%91%ED%8F%89%20%EB%8C%80%EB%AA%85%EC%A0%90"
+  },
+  {
+    "store_name":"성강동인",
+    "region":"경기 하남시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EC%84%B1%EA%B0%95%EB%8F%99%EC%9D%B8"
+  },
+  {
+    "store_name":"로또명당 일산점",
+    "region":"경기 고양시 일산서구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9%20%EC%9D%BC%EC%82%B0%EC%A0%90"
+  },
+  {
+    "store_name":"지바",
+    "region":"경기 광명시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B4%91%EB%AA%85%EC%8B%9C%20%EC%A7%80%EB%B0%94"
+  },
+  {
+    "store_name":"오늘도로또",
+    "region":"경기 부천시 원미구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%9B%90%EB%AF%B8%EA%B5%AC%20%EC%98%A4%EB%8A%98%EB%8F%84%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"씨유용인청덕중앙점",
+    "region":"경기 용인시 기흥구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EC%94%A8%EC%9C%A0%EC%9A%A9%EC%9D%B8%EC%B2%AD%EB%8D%95%EC%A4%91%EC%95%99%EC%A0%90"
+  },
+  {
+    "store_name":"두근두근로또복권",
+    "region":"경기 고양시 일산동구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%EB%91%90%EA%B7%BC%EB%91%90%EA%B7%BC%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"달려라 복권방",
+    "region":"경기 남양주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%82%A8%EC%96%91%EC%A3%BC%EC%8B%9C%20%EB%8B%AC%EB%A0%A4%EB%9D%BC%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"골드러시",
+    "region":"경기 성남시 중원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EC%A4%91%EC%9B%90%EA%B5%AC%20%EA%B3%A8%EB%93%9C%EB%9F%AC%EC%8B%9C"
+  },
+  {
+    "store_name":"홈런1등로또",
+    "region":"경기 수원시 장안구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9E%A5%EC%95%88%EA%B5%AC%20%ED%99%88%EB%9F%B01%EB%93%B1%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"일등복권방",
+    "region":"경기 시흥시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EC%9D%BC%EB%93%B1%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"복권맛집",
+    "region":"경기 포천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%AC%EC%B2%9C%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%A7%9B%EC%A7%91"
+  },
+  {
+    "store_name":"행운의집",
+    "region":"경기 오산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%98%A4%EC%82%B0%EC%8B%9C%20%ED%96%89%EC%9A%B4%EC%9D%98%EC%A7%91"
+  },
+  {
+    "store_name":"즉석복권방",
+    "region":"경기 수원시 영통구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%A6%89%EC%84%9D%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"대박",
+    "region":"경기 구리시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EA%B5%AC%EB%A6%AC%EC%8B%9C%20%EB%8C%80%EB%B0%95"
+  },
+  {
+    "store_name":"삼성복권방",
+    "region":"경기 동두천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EB%8F%99%EB%91%90%EC%B2%9C%EC%8B%9C%20%EC%82%BC%EC%84%B1%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"대박복권방",
+    "region":"경기 안산시 단원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%82%B0%EC%8B%9C%20%EB%8B%A8%EC%9B%90%EA%B5%AC%20%EB%8C%80%EB%B0%95%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"주택복권방",
+    "region":"경기 안양시 만안구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%96%91%EC%8B%9C%20%EB%A7%8C%EC%95%88%EA%B5%AC%20%EC%A3%BC%ED%83%9D%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"행운복권방",
+    "region":"경기 포천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%AC%EC%B2%9C%EC%8B%9C%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"천하명당",
+    "region":"경기 시흥시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%EC%8B%9C%ED%9D%A5%EC%8B%9C%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"코사마트역전점",
+    "region":"경기 평택시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%BD%94%EC%82%AC%EB%A7%88%ED%8A%B8%EC%97%AD%EC%A0%84%EC%A0%90"
+  },
+  {
+    "store_name":"불티나",
+    "region":"강원 춘천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%B6%98%EC%B2%9C%EC%8B%9C%20%EB%B6%88%ED%8B%B0%EB%82%98"
+  },
+  {
+    "store_name":"유성로또복권상회",
+    "region":"강원 원주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%9B%90%EC%A3%BC%EC%8B%9C%20%EC%9C%A0%EC%84%B1%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EC%83%81%ED%9A%8C"
+  },
+  {
+    "store_name":"영월로또명당",
+    "region":"강원 영월군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%98%81%EC%9B%94%EA%B5%B0%20%EC%98%81%EC%9B%94%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"백억만로또",
+    "region":"강원 춘천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%B6%98%EC%B2%9C%EC%8B%9C%20%EB%B0%B1%EC%96%B5%EB%A7%8C%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"속초등대로또복권",
+    "region":"강원 속초시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%86%8D%EC%B4%88%EC%8B%9C%20%EC%86%8D%EC%B4%88%EB%93%B1%EB%8C%80%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"탑",
+    "region":"강원 원주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%9B%90%EC%A3%BC%EC%8B%9C%20%ED%83%91"
+  },
+  {
+    "store_name":"행운로또방",
+    "region":"강원 화천군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%ED%99%94%EC%B2%9C%EA%B5%B0%20%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90%EB%B0%A9"
+  },
+  {
+    "store_name":"대관령복권방",
+    "region":"강원 평창군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%ED%8F%89%EC%B0%BD%EA%B5%B0%20%EB%8C%80%EA%B4%80%EB%A0%B9%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"교동복권",
+    "region":"강원 강릉시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EA%B0%95%EB%A6%89%EC%8B%9C%20%EA%B5%90%EB%8F%99%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"유니로또",
+    "region":"강원 원주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%9B%90%EC%A3%BC%EC%8B%9C%20%EC%9C%A0%EB%8B%88%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"노다지복권",
+    "region":"강원 삼척시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%82%BC%EC%B2%99%EC%8B%9C%20%EB%85%B8%EB%8B%A4%EC%A7%80%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"대박의터",
+    "region":"강원 춘천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%EC%B6%98%EC%B2%9C%EC%8B%9C%20%EB%8C%80%EB%B0%95%EC%9D%98%ED%84%B0"
+  },
+  {
+    "store_name":"복권마트 & 씨스페이스 홍천점",
+    "region":"강원 홍천군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B0%95%EC%9B%90%20%ED%99%8D%EC%B2%9C%EA%B5%B0%20%EB%B3%B5%EA%B6%8C%EB%A7%88%ED%8A%B8%20%26%20%EC%94%A8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%99%8D%EC%B2%9C%EC%A0%90"
+  },
+  {
+    "store_name":"대박찬스",
+    "region":"충북 청주시 흥덕구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%ED%9D%A5%EB%8D%95%EA%B5%AC%20%EB%8C%80%EB%B0%95%EC%B0%AC%EC%8A%A4"
+  },
+  {
+    "store_name":"행운의명당로-토토",
+    "region":"충북 청주시 서원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%84%9C%EC%9B%90%EA%B5%AC%20%ED%96%89%EC%9A%B4%EC%9D%98%EB%AA%85%EB%8B%B9%EB%A1%9C-%ED%86%A0%ED%86%A0"
+  },
+  {
+    "store_name":"만복편의점",
+    "region":"충북 청주시 흥덕구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%ED%9D%A5%EB%8D%95%EA%B5%AC%20%EB%A7%8C%EB%B3%B5%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"로또복권방",
+    "region":"충북 청주시 청원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%B2%AD%EC%9B%90%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"오창중앙복권",
+    "region":"충북 청주시 청원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%B2%AD%EC%9B%90%EA%B5%AC%20%EC%98%A4%EC%B0%BD%EC%A4%91%EC%95%99%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"해수로또",
+    "region":"충북 청주시 상당구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%83%81%EB%8B%B9%EA%B5%AC%20%ED%95%B4%EC%88%98%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"선경로또",
+    "region":"충북 제천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%A0%9C%EC%B2%9C%EC%8B%9C%20%EC%84%A0%EA%B2%BD%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"행운로또",
+    "region":"충북 진천군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%A7%84%EC%B2%9C%EA%B5%B0%20%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"럭키로또복권판매점",
+    "region":"충북 청주시 상당구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%83%81%EB%8B%B9%EA%B5%AC%20%EB%9F%AD%ED%82%A4%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"쿡쿡로또명당",
+    "region":"충북 옥천군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%98%A5%EC%B2%9C%EA%B5%B0%20%EC%BF%A1%EC%BF%A1%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"별복권방",
+    "region":"충북 청주시 흥덕구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%ED%9D%A5%EB%8D%95%EA%B5%AC%20%EB%B3%84%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"희망복권방",
+    "region":"충북 청주시 흥덕구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%ED%9D%A5%EB%8D%95%EA%B5%AC%20%ED%9D%AC%EB%A7%9D%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"씨유 율량칸타빌 4차점",
+    "region":"충북 청주시 청원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%B2%AD%EC%9B%90%EA%B5%AC%20%EC%94%A8%EC%9C%A0%20%EC%9C%A8%EB%9F%89%EC%B9%B8%ED%83%80%EB%B9%8C%204%EC%B0%A8%EC%A0%90"
+  },
+  {
+    "store_name":"동남운천복권",
+    "region":"충북 청주시 상당구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%83%81%EB%8B%B9%EA%B5%AC%20%EB%8F%99%EB%82%A8%EC%9A%B4%EC%B2%9C%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"노란공인중개사사무소",
+    "region":"충북 청주시 흥덕구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%ED%9D%A5%EB%8D%95%EA%B5%AC%20%EB%85%B8%EB%9E%80%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC%EC%82%AC%EB%AC%B4%EC%86%8C"
+  },
+  {
+    "store_name":"스마일로또",
+    "region":"충북 제천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%A0%9C%EC%B2%9C%EC%8B%9C%20%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"세븐복권",
+    "region":"충북 증평군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%A6%9D%ED%8F%89%EA%B5%B0%20%EC%84%B8%EB%B8%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"비하로또명당",
+    "region":"충북 청주시 흥덕구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%ED%9D%A5%EB%8D%95%EA%B5%AC%20%EB%B9%84%ED%95%98%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"바다 복권판매점",
+    "region":"충북 청주시 청원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%EC%B2%AD%EC%9B%90%EA%B5%AC%20%EB%B0%94%EB%8B%A4%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"썬마트",
+    "region":"충북 청주시 흥덕구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%B6%81%20%EC%B2%AD%EC%A3%BC%EC%8B%9C%20%ED%9D%A5%EB%8D%95%EA%B5%AC%20%EC%8D%AC%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"천하명당복권방",
+    "region":"충남 홍성군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%ED%99%8D%EC%84%B1%EA%B5%B0%20%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"필로또복권",
+    "region":"충남 서산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%84%9C%EC%82%B0%EC%8B%9C%20%ED%95%84%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"신천하명당",
+    "region":"충남 예산군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%98%88%EC%82%B0%EA%B5%B0%20%EC%8B%A0%EC%B2%9C%ED%95%98%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"로또복권두정점",
+    "region":"충남 천안시 서북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EC%84%9C%EB%B6%81%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%91%90%EC%A0%95%EC%A0%90"
+  },
+  {
+    "store_name":"영약국",
+    "region":"충남 금산군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EA%B8%88%EC%82%B0%EA%B5%B0%20%EC%98%81%EC%95%BD%EA%B5%AD"
+  },
+  {
+    "store_name":"꿀사랑",
+    "region":"충남 논산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EB%85%BC%EC%82%B0%EC%8B%9C%20%EA%BF%80%EC%82%AC%EB%9E%91"
+  },
+  {
+    "store_name":"GS25석문센트럴점",
+    "region":"충남 당진시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EB%8B%B9%EC%A7%84%EC%8B%9C%20GS25%EC%84%9D%EB%AC%B8%EC%84%BC%ED%8A%B8%EB%9F%B4%EC%A0%90"
+  },
+  {
+    "store_name":"이마트24 용두휴게소",
+    "region":"충남 천안시 동남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EB%8F%99%EB%82%A8%EA%B5%AC%20%EC%9D%B4%EB%A7%88%ED%8A%B824%20%EC%9A%A9%EB%91%90%ED%9C%B4%EA%B2%8C%EC%86%8C"
+  },
+  {
+    "store_name":"터미널분식",
+    "region":"충남 부여군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EB%B6%80%EC%97%AC%EA%B5%B0%20%ED%84%B0%EB%AF%B8%EB%84%90%EB%B6%84%EC%8B%9D"
+  },
+  {
+    "store_name":"천안명당병천점",
+    "region":"충남 천안시 동남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EB%8F%99%EB%82%A8%EA%B5%AC%20%EC%B2%9C%EC%95%88%EB%AA%85%EB%8B%B9%EB%B3%91%EC%B2%9C%EC%A0%90"
+  },
+  {
+    "store_name":"예스복권방",
+    "region":"충남 천안시 동남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EB%8F%99%EB%82%A8%EA%B5%AC%20%EC%98%88%EC%8A%A4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"로또명당 풍세산단점",
+    "region":"충남 천안시 동남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EB%8F%99%EB%82%A8%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9%20%ED%92%8D%EC%84%B8%EC%82%B0%EB%8B%A8%EC%A0%90"
+  },
+  {
+    "store_name":"행운의집로또",
+    "region":"충남 아산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%95%84%EC%82%B0%EC%8B%9C%20%ED%96%89%EC%9A%B4%EC%9D%98%EC%A7%91%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"대박복권 성점점",
+    "region":"충남 천안시 서북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EC%B2%9C%EC%95%88%EC%8B%9C%20%EC%84%9C%EB%B6%81%EA%B5%AC%20%EB%8C%80%EB%B0%95%EB%B3%B5%EA%B6%8C%20%EC%84%B1%EC%A0%90%EC%A0%90"
+  },
+  {
+    "store_name":"강경복권방",
+    "region":"충남 논산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%B6%A9%EB%82%A8%20%EB%85%BC%EC%82%B0%EC%8B%9C%20%EA%B0%95%EA%B2%BD%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"팡팡복권마트.잡화슈퍼",
+    "region":"전북 전주시 덕진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EB%8D%95%EC%A7%84%EA%B5%AC%20%ED%8C%A1%ED%8C%A1%EB%B3%B5%EA%B6%8C%EB%A7%88%ED%8A%B8.%EC%9E%A1%ED%99%94%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"제일마트",
+    "region":"전북 군산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EA%B5%B0%EC%82%B0%EC%8B%9C%20%EC%A0%9C%EC%9D%BC%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"동남슈퍼",
+    "region":"전북 부안군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EB%B6%80%EC%95%88%EA%B5%B0%20%EB%8F%99%EB%82%A8%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"팡팡복권방",
+    "region":"전북 익산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%9D%B5%EC%82%B0%EC%8B%9C%20%ED%8C%A1%ED%8C%A1%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"행운복권방 보생당건강원",
+    "region":"전북 익산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%9D%B5%EC%82%B0%EC%8B%9C%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9%20%EB%B3%B4%EC%83%9D%EB%8B%B9%EA%B1%B4%EA%B0%95%EC%9B%90"
+  },
+  {
+    "store_name":"왕대박로또",
+    "region":"전북 전주시 덕진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EB%8D%95%EC%A7%84%EA%B5%AC%20%EC%99%95%EB%8C%80%EB%B0%95%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"효자로또판매점",
+    "region":"전북 전주시 완산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%ED%9A%A8%EC%9E%90%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"로또로복권",
+    "region":"전북 전주시 완산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%A1%9C%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"명당로또 풍남문점",
+    "region":"전북 전주시 완산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%EB%AA%85%EB%8B%B9%EB%A1%9C%EB%98%90%20%ED%92%8D%EB%82%A8%EB%AC%B8%EC%A0%90"
+  },
+  {
+    "store_name":"행복자리",
+    "region":"전북 군산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EA%B5%B0%EC%82%B0%EC%8B%9C%20%ED%96%89%EB%B3%B5%EC%9E%90%EB%A6%AC"
+  },
+  {
+    "store_name":"행운복권방",
+    "region":"전북 고창군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EA%B3%A0%EC%B0%BD%EA%B5%B0%20%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"복권나라",
+    "region":"전북 군산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EA%B5%B0%EC%82%B0%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"베스트올수성점",
+    "region":"전북 정읍시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%95%EC%9D%8D%EC%8B%9C%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%98%AC%EC%88%98%EC%84%B1%EC%A0%90"
+  },
+  {
+    "store_name":"훼미리마트 우아대로점",
+    "region":"전북 전주시 덕진구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%B6%81%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EB%8D%95%EC%A7%84%EA%B5%AC%20%ED%9B%BC%EB%AF%B8%EB%A6%AC%EB%A7%88%ED%8A%B8%20%EC%9A%B0%EC%95%84%EB%8C%80%EB%A1%9C%EC%A0%90"
+  },
+  {
+    "store_name":"복권세상",
+    "region":"전남 목포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EB%AA%A9%ED%8F%AC%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EC%84%B8%EC%83%81"
+  },
+  {
+    "store_name":"복권나라동성점",
+    "region":"전남 순천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EC%88%9C%EC%B2%9C%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC%EB%8F%99%EC%84%B1%EC%A0%90"
+  },
+  {
+    "store_name":"일레븐마트무선점",
+    "region":"전남 여수시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EC%97%AC%EC%88%98%EC%8B%9C%20%EC%9D%BC%EB%A0%88%EB%B8%90%EB%A7%88%ED%8A%B8%EB%AC%B4%EC%84%A0%EC%A0%90"
+  },
+  {
+    "store_name":"나눔로또편의점",
+    "region":"전남 광양시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EA%B4%91%EC%96%91%EC%8B%9C%20%EB%82%98%EB%88%94%EB%A1%9C%EB%98%90%ED%8E%B8%EC%9D%98%EC%A0%90"
+  },
+  {
+    "store_name":"조례로또복권방",
+    "region":"전남 순천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EC%88%9C%EC%B2%9C%EC%8B%9C%20%EC%A1%B0%EB%A1%80%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"행복나눔",
+    "region":"전남 담양군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EB%8B%B4%EC%96%91%EA%B5%B0%20%ED%96%89%EB%B3%B5%EB%82%98%EB%88%94"
+  },
+  {
+    "store_name":"로또복권",
+    "region":"전남 순천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EC%88%9C%EC%B2%9C%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"금호 동행복권",
+    "region":"전남 영암군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EC%98%81%EC%95%94%EA%B5%B0%20%EA%B8%88%ED%98%B8%20%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"대광복권판매점",
+    "region":"전남 강진군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EA%B0%95%EC%A7%84%EA%B5%B0%20%EB%8C%80%EA%B4%91%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"또니로또연구소 한꼴토토",
+    "region":"전남 순천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EC%88%9C%EC%B2%9C%EC%8B%9C%20%EB%98%90%EB%8B%88%EB%A1%9C%EB%98%90%EC%97%B0%EA%B5%AC%EC%86%8C%20%ED%95%9C%EA%BC%B4%ED%86%A0%ED%86%A0"
+  },
+  {
+    "store_name":"학동복권나라",
+    "region":"전남 여수시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EC%97%AC%EC%88%98%EC%8B%9C%20%ED%95%99%EB%8F%99%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"복권전문점(고흥)",
+    "region":"전남 고흥군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EA%B3%A0%ED%9D%A5%EA%B5%B0%20%EB%B3%B5%EA%B6%8C%EC%A0%84%EB%AC%B8%EC%A0%90%28%EA%B3%A0%ED%9D%A5%29"
+  },
+  {
+    "store_name":"하당복권방",
+    "region":"전남 목포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EB%AA%A9%ED%8F%AC%EC%8B%9C%20%ED%95%98%EB%8B%B9%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"명품복권방",
+    "region":"전남 목포시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%84%EB%82%A8%20%EB%AA%A9%ED%8F%AC%EC%8B%9C%20%EB%AA%85%ED%92%88%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"하나유통",
+    "region":"경북 경산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%82%B0%EC%8B%9C%20%ED%95%98%EB%82%98%EC%9C%A0%ED%86%B5"
+  },
+  {
+    "store_name":"복권명당",
+    "region":"경북 경산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%82%B0%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"씨스페이스 경주세방매점",
+    "region":"경북 경주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EC%94%A8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B2%BD%EC%A3%BC%EC%84%B8%EB%B0%A9%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"성심상회",
+    "region":"경북 포항시 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%20%EC%84%B1%EC%8B%AC%EC%83%81%ED%9A%8C"
+  },
+  {
+    "store_name":"KOREA마트",
+    "region":"경북 구미시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B5%AC%EB%AF%B8%EC%8B%9C%20KOREA%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"코리아25옥계점",
+    "region":"경북 구미시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B5%AC%EB%AF%B8%EC%8B%9C%20%EC%BD%94%EB%A6%AC%EC%95%8425%EC%98%A5%EA%B3%84%EC%A0%90"
+  },
+  {
+    "store_name":"로또복권보성점",
+    "region":"경북 포항시 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B3%B4%EC%84%B1%EC%A0%90"
+  },
+  {
+    "store_name":"로또복권",
+    "region":"경북 김천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B9%80%EC%B2%9C%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"로또복권",
+    "region":"대구 군위군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EB%8C%80%EA%B5%AC%20%EA%B5%B0%EC%9C%84%EA%B5%B0%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"복권명당",
+    "region":"경북 구미시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B5%AC%EB%AF%B8%EC%8B%9C%20%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"왕릉복권",
+    "region":"경북 고령군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B3%A0%EB%A0%B9%EA%B5%B0%20%EC%99%95%EB%A6%89%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"영일대 복권방",
+    "region":"경북 포항시 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%20%EC%98%81%EC%9D%BC%EB%8C%80%20%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"완산로또방",
+    "region":"경북 영천시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EC%98%81%EC%B2%9C%EC%8B%9C%20%EC%99%84%EC%82%B0%EB%A1%9C%EB%98%90%EB%B0%A9"
+  },
+  {
+    "store_name":"역전로또",
+    "region":"경북 구미시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B5%AC%EB%AF%B8%EC%8B%9C%20%EC%97%AD%EC%A0%84%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"필승로또복권판매점",
+    "region":"경북 상주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EC%83%81%EC%A3%BC%EC%8B%9C%20%ED%95%84%EC%8A%B9%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"공단로또명당",
+    "region":"경북 포항시 남구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%82%A8%EA%B5%AC%20%EA%B3%B5%EB%8B%A8%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"대박드림",
+    "region":"경북 포항시 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%20%EB%8C%80%EB%B0%95%EB%93%9C%EB%A6%BC"
+  },
+  {
+    "store_name":"GMART",
+    "region":"경북 구미시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%EA%B5%AC%EB%AF%B8%EC%8B%9C%20GMART"
+  },
+  {
+    "store_name":"복권나라",
+    "region":"경북 포항시 북구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%B6%81%20%ED%8F%AC%ED%95%AD%EC%8B%9C%20%EB%B6%81%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC"
+  },
+  {
+    "store_name":"양산노다지복권방",
+    "region":"경남 양산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%96%91%EC%82%B0%EC%8B%9C%20%EC%96%91%EC%82%B0%EB%85%B8%EB%8B%A4%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"로또복권 하대점",
+    "region":"경남 진주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%A7%84%EC%A3%BC%EC%8B%9C%20%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%20%ED%95%98%EB%8C%80%EC%A0%90"
+  },
+  {
+    "store_name":"로또통신",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EB%A1%9C%EB%98%90%ED%86%B5%EC%8B%A0"
+  },
+  {
+    "store_name":"만물할인슈퍼",
+    "region":"경남 창원시 성산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%84%B1%EC%82%B0%EA%B5%AC%20%EB%A7%8C%EB%AC%BC%ED%95%A0%EC%9D%B8%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"복권파는집",
+    "region":"경남 창원시 마산회원구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EB%A7%88%EC%82%B0%ED%9A%8C%EC%9B%90%EA%B5%AC%20%EB%B3%B5%EA%B6%8C%ED%8C%8C%EB%8A%94%EC%A7%91"
+  },
+  {
+    "store_name":"진빈레코드",
+    "region":"경남 밀양시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EB%B0%80%EC%96%91%EC%8B%9C%20%EC%A7%84%EB%B9%88%EB%A0%88%EC%BD%94%EB%93%9C"
+  },
+  {
+    "store_name":"소답시내버스매표소",
+    "region":"경남 창원시 의창구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%9D%98%EC%B0%BD%EA%B5%AC%20%EC%86%8C%EB%8B%B5%EC%8B%9C%EB%82%B4%EB%B2%84%EC%8A%A4%EB%A7%A4%ED%91%9C%EC%86%8C"
+  },
+  {
+    "store_name":"꿈의가게",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EA%BF%88%EC%9D%98%EA%B0%80%EA%B2%8C"
+  },
+  {
+    "store_name":"로또행운마트",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EB%A1%9C%EB%98%90%ED%96%89%EC%9A%B4%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"대동복권방",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EB%8C%80%EB%8F%99%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"행운로또복권방",
+    "region":"경남 창원시 진해구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%A7%84%ED%95%B4%EA%B5%AC%20%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"합천우리복권방",
+    "region":"경남 합천군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%ED%95%A9%EC%B2%9C%EA%B5%B0%20%ED%95%A9%EC%B2%9C%EC%9A%B0%EB%A6%AC%EB%B3%B5%EA%B6%8C%EB%B0%A9"
+  },
+  {
+    "store_name":"대풍로또판매점",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EB%8C%80%ED%92%8D%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"돈보따리",
+    "region":"경남 양산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%96%91%EC%82%B0%EC%8B%9C%20%EB%8F%88%EB%B3%B4%EB%94%B0%EB%A6%AC"
+  },
+  {
+    "store_name":"공단로또점",
+    "region":"경남 함안군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%ED%95%A8%EC%95%88%EA%B5%B0%20%EA%B3%B5%EB%8B%A8%EB%A1%9C%EB%98%90%EC%A0%90"
+  },
+  {
+    "store_name":"승원롯또판매",
+    "region":"경남 창원시 의창구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%9D%98%EC%B0%BD%EA%B5%AC%20%EC%8A%B9%EC%9B%90%EB%A1%AF%EB%98%90%ED%8C%90%EB%A7%A4"
+  },
+  {
+    "store_name":"세븐일레븐진해경화위브점 ",
+    "region":"경남 창원시 진해구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%A7%84%ED%95%B4%EA%B5%AC%20%EC%84%B8%EB%B8%90%EC%9D%BC%EB%A0%88%EB%B8%90%EC%A7%84%ED%95%B4%EA%B2%BD%ED%99%94%EC%9C%84%EB%B8%8C%EC%A0%90%20"
+  },
+  {
+    "store_name":"드림복권",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EB%93%9C%EB%A6%BC%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"복권판매점",
+    "region":"경남 고성군",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B3%A0%EC%84%B1%EA%B5%B0%20%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90"
+  },
+  {
+    "store_name":"지에스(GS)25 진동에이스점",
+    "region":"경남 창원시 마산합포구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EB%A7%88%EC%82%B0%ED%95%A9%ED%8F%AC%EA%B5%AC%20%EC%A7%80%EC%97%90%EC%8A%A4%28GS%2925%20%EC%A7%84%EB%8F%99%EC%97%90%EC%9D%B4%EC%8A%A4%EC%A0%90"
+  },
+  {
+    "store_name":"해보라마트",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%ED%95%B4%EB%B3%B4%EB%9D%BC%EB%A7%88%ED%8A%B8"
+  },
+  {
+    "store_name":"지에스(GS25)뉴양산혜인점",
+    "region":"경남 양산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%96%91%EC%82%B0%EC%8B%9C%20%EC%A7%80%EC%97%90%EC%8A%A4%28GS25%29%EB%89%B4%EC%96%91%EC%82%B0%ED%98%9C%EC%9D%B8%EC%A0%90"
+  },
+  {
+    "store_name":"스마일",
+    "region":"경남 양산시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%96%91%EC%82%B0%EC%8B%9C%20%EC%8A%A4%EB%A7%88%EC%9D%BC"
+  },
+  {
+    "store_name":"창원로또명당",
+    "region":"경남 창원시 성산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%84%B1%EC%82%B0%EA%B5%AC%20%EC%B0%BD%EC%9B%90%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9"
+  },
+  {
+    "store_name":"제이에이치마켓",
+    "region":"경남 창원시 의창구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%9D%98%EC%B0%BD%EA%B5%AC%20%EC%A0%9C%EC%9D%B4%EC%97%90%EC%9D%B4%EC%B9%98%EB%A7%88%EC%BC%93"
+  },
+  {
+    "store_name":"드림로또",
+    "region":"경남 창원시 진해구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%A7%84%ED%95%B4%EA%B5%AC%20%EB%93%9C%EB%A6%BC%EB%A1%9C%EB%98%90"
+  },
+  {
+    "store_name":"용남복권",
+    "region":"경남 통영시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%ED%86%B5%EC%98%81%EC%8B%9C%20%EC%9A%A9%EB%82%A8%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"대우 행복 복권",
+    "region":"경남 거제시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B1%B0%EC%A0%9C%EC%8B%9C%20%EB%8C%80%EC%9A%B0%20%ED%96%89%EB%B3%B5%20%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"조선복권",
+    "region":"경남 창원시 의창구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%9D%98%EC%B0%BD%EA%B5%AC%20%EC%A1%B0%EC%84%A0%EB%B3%B5%EA%B6%8C"
+  },
+  {
+    "store_name":"로또플렉스 시티세븐점",
+    "region":"경남 창원시 성산구",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EC%84%B1%EC%82%B0%EA%B5%AC%20%EB%A1%9C%EB%98%90%ED%94%8C%EB%A0%89%EC%8A%A4%20%EC%8B%9C%ED%8B%B0%EC%84%B8%EB%B8%90%EC%A0%90"
+  },
+  {
+    "store_name":"땅땅낚시",
+    "region":"경남 거제시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B1%B0%EC%A0%9C%EC%8B%9C%20%EB%95%85%EB%95%85%EB%82%9A%EC%8B%9C"
+  },
+  {
+    "store_name":"복슈퍼",
+    "region":"경남 김해시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EA%B2%BD%EB%82%A8%20%EA%B9%80%ED%95%B4%EC%8B%9C%20%EB%B3%B5%EC%8A%88%ED%8D%BC"
+  },
+  {
+    "store_name":"만물가게",
+    "region":"제주 제주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EB%A7%8C%EB%AC%BC%EA%B0%80%EA%B2%8C"
+  },
+  {
+    "store_name":"돈벼락 복권",
+    "region":"제주 제주시",
+    "win_count":1,
+    "search_url":"https:\/\/map.kakao.com\/link\/search\/%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EB%8F%88%EB%B2%BC%EB%9D%BD%20%EB%B3%B5%EA%B6%8C"
+  }
+]
