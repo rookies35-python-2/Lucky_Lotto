@@ -1,28 +1,29 @@
-# 박준영님 
+# 박준영님
 import pandas as pd
 from urllib.parse import quote
 
-df = pd.read_csv("1등당첨현황정보.csv", encoding="cp949")
+CSV_PATH = "1등당첨현황정보.csv"
+JSON_PATH = "lotto_stores.json"
 
-# 1) 열 이름을 영어로 바꾸기
-df.columns = ["seq", "store_name", "region", "win_count"]
 
-# 2) 인터넷 판매처 빼기
-print("빼기 전:", len(df))
-df = df[~df["store_name"].str.contains("인터넷")]
-print("빼기 후:", len(df))
+def load_and_clean(csv_path):
+    """CSV를 읽어서 MOCK_STORES 규격으로 정제한 표를 돌려준다."""
+    df = pd.read_csv(csv_path, encoding="cp949")
+    df.columns = ["seq", "store_name", "region", "win_count"]
+    df = df[~df["store_name"].str.contains("인터넷")]
+    df = df.drop(columns=["seq"])
+    df["search_url"] = "https://map.kakao.com/link/search/" + (df["region"] + " " + df["store_name"]).apply(quote)
+    return df
 
-# 3) 필요 없는 seq 열 빼기
-df = df.drop(columns=["seq"])
 
-# 4) 카카오맵 검색 링크 만들기
-df["search_url"] = "https://map.kakao.com/link/search/" + (df["region"] + " " + df["store_name"]).apply(quote)
+def save_json(df, json_path):
+    """정제 결과를 JSON 파일로 저장한다."""
+    df.to_json(json_path, orient="records", force_ascii=False, indent=2)
 
-# 5) 3회 이상 필터가 필요한지 확인용
-print("가장 적은 당첨 횟수:", df["win_count"].min())
 
-print(df.head(5).to_string())
-
-# 6) 결과를 JSON 파일로 저장
-df.to_json("lotto_stores.json", orient="records", force_ascii=False, indent=2)
-print("저장 완료!")
+if __name__ == "__main__":
+    stores = load_and_clean(CSV_PATH)
+    print("정제된 매장 수:", len(stores))
+    save_json(stores, JSON_PATH)
+    print("저장 완료!")
+    # TODO: database.py 준비되면 여기서 MongoDB에 적재
