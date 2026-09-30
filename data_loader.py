@@ -35,9 +35,7 @@ NUMBER_COLS = ["n1", "n2", "n3", "n4", "n5", "n6"]
 CSV_COLS = ["round", "date"] + NUMBER_COLS + ["bonus"]
 
 
-# ---------------------------------------------------------------
 # 1. 수집
-# ---------------------------------------------------------------
 def estimate_latest_round():
     """오늘 날짜(한국 시간)로 최신 회차를 추정한다. 매주 토요일 1회씩 증가."""
     today = datetime.now(KST).date()
@@ -98,9 +96,7 @@ def save_raw_csv(records, path=CSV_PATH):
     print(f"[저장] {len(records)}건 → {os.path.relpath(path, BASE_DIR)}")
 
 
-# ---------------------------------------------------------------
 # 2. 전처리
-# ---------------------------------------------------------------
 def _is_valid(row):
     """번호 6개가 1~45 범위의 서로 다른 수이고, 보너스가 본번호와 겹치지 않는지 검사한다."""
     numbers = [row[c] for c in NUMBER_COLS]
@@ -153,9 +149,7 @@ def preprocess(path=CSV_PATH):
     return records
 
 
-# ---------------------------------------------------------------
 # 3. 적재 및 조회
-# ---------------------------------------------------------------
 def load_to_mongo(records):
     """레코드를 lotto_history 컬렉션에 회차 기준으로 upsert한다. 재실행해도 중복되지 않는다."""
     col = get_collection(LOTTO_HISTORY)
@@ -177,9 +171,7 @@ def get_recent_history(n=15):
     return list(col.find({}, {"_id": 0}).sort("round", -1).limit(n))
 
 
-# ---------------------------------------------------------------
 # 실행
-# ---------------------------------------------------------------
 def main(n=100):
     if not ping():
         return
