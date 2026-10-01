@@ -1,9 +1,10 @@
 # 박준영님
 import pandas as pd
 from urllib.parse import quote
+from database import get_collection, LOTTO_STORES
 
-CSV_PATH = "1등당첨현황정보.csv"
-JSON_PATH = "lotto_stores.json"
+CSV_PATH = "data/1등당첨현황정보.csv"
+JSON_PATH = "data/lotto_stores.json"
 
 
 def load_and_clean(csv_path):
@@ -21,9 +22,20 @@ def save_json(df, json_path):
     df.to_json(json_path, orient="records", force_ascii=False, indent=2)
 
 
+def save_to_db(df):
+    """정제 결과를 팀 DB의 lotto_stores 컬렉션에 적재한다."""
+    stores_col = get_collection(LOTTO_STORES)
+    stores_col.delete_many({})
+    stores_col.insert_many(df.to_dict("records"))
+    return stores_col.count_documents({})
+
+
 if __name__ == "__main__":
     stores = load_and_clean(CSV_PATH)
     print("정제된 매장 수:", len(stores))
+
     save_json(stores, JSON_PATH)
-    print("저장 완료!")
-    # TODO: database.py 준비되면 여기서 MongoDB에 적재
+    print("JSON 저장 완료!")
+
+    count = save_to_db(stores)
+    print("DB 적재 완료:", count)
