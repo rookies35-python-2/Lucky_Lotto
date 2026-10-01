@@ -5,6 +5,7 @@
 # history = get_recent_history(15)   # 최신순 15회, MOCK_LOTTO_HISTORY와 같은 형식
 
 
+import json
 import os
 import time
 from datetime import date, datetime, timedelta, timezone
@@ -30,6 +31,7 @@ REQUEST_DELAY = 1.0                   # 요청 간 대기 시간(초), 서버 �
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 CSV_PATH = os.path.join(DATA_DIR, "lotto_history.csv")
+JSON_PATH = os.path.join(DATA_DIR, "lotto_history.json")
 
 NUMBER_COLS = ["n1", "n2", "n3", "n4", "n5", "n6"]
 CSV_COLS = ["round", "date"] + NUMBER_COLS + ["bonus"]
@@ -149,6 +151,14 @@ def preprocess(path=CSV_PATH):
     return records
 
 
+def save_json(records, path=JSON_PATH):
+    """전처리를 마친 레코드를 JSON 파일로 저장한다. (MOCK_LOTTO_HISTORY와 같은 형식)"""
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=2)
+    print(f"[저장] {len(records)}건 → {os.path.relpath(path, BASE_DIR)}")
+
+
 # 3. 적재 및 조회
 def load_to_mongo(records):
     """레코드를 lotto_history 컬렉션에 회차 기준으로 upsert한다. 재실행해도 중복되지 않는다."""
@@ -181,6 +191,7 @@ def main(n=100):
         return
     save_raw_csv(records)
     cleaned = preprocess()
+    save_json(cleaned)
     load_to_mongo(cleaned)
 
     print("[확인] 최신 3회차:")
