@@ -18,7 +18,11 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.3
 notion-client==3.1.0
+<<<<<<< HEAD
 numpy==2.4.6
+=======
+numpy
+>>>>>>> 8a79d442bc2cbd0c9c1c5be618bf5c7b31aa743e
 openpyxl==3.1.5
 pandas==3.0.6
 pyftpdlib==2.2.0
