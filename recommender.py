@@ -1,30 +1,20 @@
 # 김서희님 
-import os
 import random
 from collections import Counter
-from pymongo import MongoClient
-from dotenv import load_dotenv
+from database import get_collection, LOTTO_HISTORY
 from data.mock_data import MOCK_LOTTO_HISTORY
-
-load_dotenv()
 
 # 상수 선언
 MIN_NUM = 1
 MAX_NUM = 45
 LOTTO_COUNT = 6
 
-# ENV 변수 선언
-MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
-DB_NAME = os.getenv("DB_NAME", "lucky_lotto")
-
 
 def get_history_from_db():
     """MongoDB에서 전체 로또 당첨 이력을 조회합니다."""
     try:
-        client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=2000)
-        db = client[DB_NAME]
-        
-        history = list(db["lotto_history"].find({}, {"_id": 0}))  # id 제외
+        col = get_collection(LOTTO_HISTORY)
+        history = list(col.find({}, {"_id": 0}))  # id 제외
         return history if history else None
     
     except Exception as e:
