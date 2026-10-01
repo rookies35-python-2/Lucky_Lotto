@@ -1,13 +1,43 @@
 # 김서희님 
+import os
 import random
 from collections import Counter
+from pymongo import MongoClient
+from dotenv import load_dotenv
 from data.mock_data import MOCK_LOTTO_HISTORY
+
+load_dotenv()
+
+# 상수 선언
+MIN_NUM = 1
+MAX_NUM = 45
+LOTTO_COUNT = 6
+
+# ENV 변수 선언
+MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
+DB_NAME = os.getenv("DB_NAME", "lucky_lotto")
+
+
+def get_history_from_db():
+    """MongoDB에서 전체 로또 당첨 이력을 조회합니다."""
+    try:
+        client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=2000)
+        db = client[DB_NAME]
+        
+        history = list(db["lotto_history"].find({}, {"_id": 0}))  # id 제외
+        return history if history else None
+    
+    except Exception as e:
+        print(f"❌ DB 조회 실패, 목데이터를 반영합니다: {e}")
+        return None
 
 def generate_recommendation(history_data=None):
     """
     당첨 이력(history_data)을 Hot/Cold/Normal로 분류 후 
     규칙(Hot 2개, Cold 3개, Normal 1개)에 맞춰 6개 번호와 분석 결과를 반환합니다.
     """
+    if not history_data:
+        history_data = get_history_from_db()
     if not history_data:
         history_data = MOCK_LOTTO_HISTORY
 
@@ -16,13 +46,16 @@ def generate_recommendation(history_data=None):
     latest_round = 0
 
     for item in history_data:
-        all_numbers.extend(item.get("numbers", []))
-        if item.get("round", 0) > latest_round:
-            latest_round = item.get("round")
+        nums = item.get("numbers", [])
+        all_numbers.extend(nums)
+        
+        rnd = item.get("round", 0)
+        if rnd > latest_round:
+            latest_round = rnd
 
     # 1~45번 전체 번호의 출현 횟수 계산
     counts = Counter(all_numbers)
-    for n in range(1, 46):
+    for n in range(MIN_NUM, MAX_NUM+1):
         if n not in counts:
             counts[n] = 0
 
@@ -42,8 +75,7 @@ def generate_recommendation(history_data=None):
     # 분석 지표 계산
     total_sum = sum(recommended)
     odds = len([n for n in recommended if n % 2 != 0])
-    evens = 6 - odds
-    odd_even_ratio = f"{odds}:{evens}"
+    evens = LOTTO_COUNT - odds
 
     # MOCK_RECOMMENDATION 규격에 맞춘 결과 반환
     return {
@@ -51,12 +83,13 @@ def generate_recommendation(history_data=None):
         "recommended_numbers": recommended,
         "analysis": {
             "sum_val": total_sum,
-            "odd_even": odd_even_ratio,
+            "odd_even": f"{odds}:{evens}",
             "hot_count": len(picked_hot),
             "cold_count": len(picked_cold),
             "normal_count": len(picked_normal)
         }
     }
+
 
 # 실행 테스트
 if __name__ == "__main__":
