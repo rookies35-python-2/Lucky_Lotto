@@ -54,11 +54,12 @@ from database import SUBSCRIBERS, get_collection
 from notifier import send_lotto_email
 
 # 지역구 명당 필터 모듈
-#   - load_store_data(path)                     : 판매점 JSON → DataFrame (파일이 없으면 MOCK_STORES)
-#   - get_unique_regions(data)                  : 드롭다운용 지역구 목록 (가나다순)
-#   - get_top_stores_by_region(region, data)    : 지역구 1등 최다 배출점 Top 3
+#   MongoDB lotto_stores 컬렉션을 직접 조회한다. (DB 실패 시 MOCK_STORES 로 대체)
+#   - get_unique_regions()                : 드롭다운용 지역구 목록 (가나다순)
+#   - get_top_stores_by_region(region)    : 지역구 1등 최다 배출점 Top 3
 #       반환 형식: [{rank, store_name, region, win_count, search_url(카카오맵 검색 링크)}]
-from store_filter import get_top_stores_by_region, get_unique_regions, load_store_data
+#   ※ data 인자를 넘기면 DB 대신 그 데이터로 계산하므로, DB 기준으로 쓰려면 생략한다.
+from store_filter import get_top_stores_by_region, get_unique_regions
 
 # [팀원3] 추천 알고리즘 모듈
 #   - generate_recommendation(history_data)
@@ -69,18 +70,11 @@ from store_filter import get_top_stores_by_region, get_unique_regions, load_stor
 #       ※ 호출할 때마다 결과가 달라지므로(random) 아래 get_recommendation() 에서 회차별로 고정
 from recommender import generate_recommendation
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-STORES_JSON_PATH = os.path.join(BASE_DIR, "data", "lotto_stores.json")
-
 STATS_ROUNDS = 30          # Hot/Cold 통계 기준 회차 수
 STATS_TOP_N = 3            # Hot/Cold 뱃지 개수
 NEWSLETTER_TIME = "09:00"  # 매주 금요일 정기 발송 시각 (서버 PC 로컬 시간)
 
 app = Flask(__name__)
-
-# store_filter 의 기본 경로("lotto_stores.json")는 실행 위치 기준이라 파일을 못 찾고
-# 가짜 데이터로 대체되므로, 절대 경로로 한 번만 읽어서 재사용한다.
-STORE_DATA = load_store_data(STORES_JSON_PATH)
 
 
 # ------------------------------------------------------------
@@ -204,7 +198,7 @@ def find_top_stores(region):
     """선택 지역구의 명당 Top 3. 지역이 없으면 빈 리스트."""
     if not region:
         return []
-    return get_top_stores_by_region(region, STORE_DATA)
+    return get_top_stores_by_region(region)
 
 
 def get_subscriber_region(email):
@@ -249,7 +243,7 @@ def render_index(message=None, selected_region=""):
         recommended_numbers=recommendation["recommended_numbers"],
         recommend_round=recommendation.get("round"),
         # 2. 지역구별 명당 랭킹
-        regions=get_unique_regions(STORE_DATA),
+        regions=get_unique_regions(),
         selected_region=selected_region,
         stores=find_top_stores(selected_region),
         # 3. 통계 요약 뱃지
