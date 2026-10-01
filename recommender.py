@@ -55,19 +55,23 @@ def generate_recommendation(history_data=None):
     normal_pool = sorted_by_frequency[15:30]   # 중위 15개
     cold_pool = sorted_by_frequency[30:]      # 하위 15개
 
-    # 그룹별 번호 추출 (Hot 2개, Cold 3개, Normal 1개 = 총 6개)
-    picked_hot = random.sample(hot_pool, 2)
-    picked_cold = random.sample(cold_pool, 3)
-    picked_normal = random.sample(normal_pool, 1)
+    # 총합 유효 범위(100~175)를 만족할 때까지 반복 추출
+    while True:
+        picked_hot = random.sample(hot_pool, 2)
+        picked_cold = random.sample(cold_pool, 3)
+        picked_normal = random.sample(normal_pool, 1)
 
-    recommended = sorted(picked_hot + picked_cold + picked_normal)
+        candidate = sorted(picked_hot + picked_cold + picked_normal)
+        total_sum = sum(candidate)
 
-    # 분석 지표 계산
-    total_sum = sum(recommended)
+        if 100 <= total_sum <= 175:
+            recommended = candidate
+            break
+
+    # 지표 산출
     odds = len([n for n in recommended if n % 2 != 0])
     evens = LOTTO_COUNT - odds
 
-    # MOCK_RECOMMENDATION 규격에 맞춘 결과 반환
     return {
         "round": latest_round + 1,
         "recommended_numbers": recommended,
