@@ -3,7 +3,7 @@
 > **공공데이터와 역대 당첨 이력을 활용한 통계 기반 로또 번호 추천 및 명당 판매점 안내 웹 서비스**
 
 <div align="center">
-  <img width="789" height="568" alt="image" src="https://github.com/user-attachments/assets/4fcbc150-a5e9-47bc-96c9-0aa8a7a60b1d" />
+  <img width="687" height="738" alt="image" src="https://github.com/user-attachments/assets/59bb7aba-7540-4585-a697-e5610f932c97" />
 </div>
 
 본 프로젝트는 동행복권 공식 데이터와 공공데이터포털의 1등 배출점 데이터를 수집·가공하여 **MongoDB**에 적재하고, 빈도 기반 알고리즘을 통해 번호를 추천하는 데이터 파이프라인 기반 웹 애플리케이션입니다.
@@ -152,11 +152,11 @@
 
 | 팀원 | 담당 역할 | 주요 구현 내용 | 담당 파일 |
 | :--- | :--- | :--- | :--- |
-| 강민구 | Flask 웹 백엔드 | • Flask 라우팅 세팅 및 Jinja2 템플릿 데이터 바인딩<br>• `subscribers` 컬렉션 연동 (구독자 이메일, 선택 지역구 저장)<br>• 웹 화면 [지금 즉시 테스트 발송] 트리거 API 엔드포인트 구현 | `app.py` |
-| 김서희 | 통계 & 하이브리드 추천 | • 최근 15회차 출현 빈도 분석 (Cold / Hot / Normal 그룹 분류)<br>• Cold 3 + Hot 2 + Normal 1 가중치 기반 샘플링 구현<br>• 번호 총합(100~175) 유효성 필터링 및 통계 분석 지표 산출 | `recommender.py` |
-| 박준영 | 명당 데이터 정제 & 적재 | • 공공데이터포털 1등 당첨점 CSV 로드 (상호, 지역, 당첨 건수)<br>• '인터넷 복권판매사이트' 등 비매장 행 제외 전처리<br>• 카카오맵 검색 링크 필드 생성 후 MongoDB `lotto_stores` 적재 | `cleaner.py` |
 | 유제우 | 당첨 번호 데이터 적재 | • 동행복권 역대 당첨 CSV 로드 및 Pandas 전처리<br>• 회차, 1~6번, 보너스 번호 정규화<br>• MongoDB `lotto_history` 컬렉션 일괄 적재 및 공통 DB 모듈 구축 | `database.py`<br>`data_loader.py` |
+| 박준영 | 명당 데이터 정제 & 적재 | • 공공데이터포털 1등 당첨점 CSV 로드 (상호, 지역, 당첨 건수)<br>• '인터넷 복권판매사이트' 등 비매장 행 제외 전처리<br>• 카카오맵 검색 링크 필드 생성 후 MongoDB `lotto_stores` 적재 | `cleaner.py` |
+| 김서희 | 통계 & 하이브리드 추천 | • 최근 15회차 출현 빈도 분석 (Cold / Hot / Normal 그룹 분류)<br>• Cold 3 + Hot 2 + Normal 1 가중치 기반 샘플링 구현<br>• 번호 총합(100~175) 유효성 필터링 및 통계 분석 지표 산출 | `recommender.py` |
 | 이재혁 | 지역구 필터링 & 랭킹 엔진 | • 사용자 선택 지역구 기준 매장 쿼리<br>• 당첨 건수 기준 내림차순 정렬 및 Top 3 매장 추출 함수 작성<br>• UI 드롭다운용 전체 시/군/구 유니크 목록 추출 함수 구현 | `store_filter.py` |
+| 강민구 | Flask 웹 백엔드 | • Flask 라우팅 세팅 및 Jinja2 템플릿 데이터 바인딩<br>• `subscribers` 컬렉션 연동 (구독자 이메일, 선택 지역구 저장)<br>• 웹 화면 [지금 즉시 테스트 발송] 트리거 API 엔드포인트 구현 | `app.py` |
 | 하지혜 | UI 대시보드 & HTML 메일러 | • 단일 페이지 반응형 웹 마크업 (지역 선택 드롭다운 & 명당 카드 UI)<br>• 로또 공 전용 CSS 스타일링 및 반응형 이메일 템플릿 디자인<br>• Gmail SMTP 연동 단체/개별 발송 모듈 구현 | `templates/index.html`<br>`notifier.py` |
 
 
