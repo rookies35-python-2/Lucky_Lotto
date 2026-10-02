@@ -2,6 +2,10 @@
 
 > **공공데이터와 역대 당첨 이력을 활용한 통계 기반 로또 번호 추천 및 명당 판매점 안내 웹 서비스**
 
+<div align="center">
+  <img width="789" height="568" alt="image" src="https://github.com/user-attachments/assets/4fcbc150-a5e9-47bc-96c9-0aa8a7a60b1d" />
+</div>
+
 본 프로젝트는 동행복권 공식 데이터와 공공데이터포털의 1등 배출점 데이터를 수집·가공하여 **MongoDB**에 적재하고, 빈도 기반 알고리즘을 통해 번호를 추천하는 데이터 파이프라인 기반 웹 애플리케이션입니다.
 
 ---
